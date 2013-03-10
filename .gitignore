@@ -1,0 +1,6 @@
+# NexusPHP
+config
+allconfig.php
+cache
+*cache*
+
