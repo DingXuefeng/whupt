@@ -1,0 +1,17 @@
+/* Table Sorting */
+table th.headerSort {
+	/* @embed */
+        background-image: url(sort_both.gif);
+        cursor: pointer;
+        background-repeat: no-repeat;
+        background-position: center right;
+        padding-right: 21px;
+}
+table th.headerSortUp {
+	/* @embed */
+        background-image: url(sort_up.gif);
+}
+table th.headerSortDown {
+	/* @embed */
+        background-image: url(sort_down.gif);
+}
